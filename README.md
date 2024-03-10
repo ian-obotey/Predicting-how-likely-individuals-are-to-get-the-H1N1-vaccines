@@ -18,7 +18,9 @@ The third model we used was the Decision Tree model.It was built without hyperpa
 
 The final model was a Decision Tree model with hyperparameter pruning.This  Improved model after hyperparameter tuning, leading to a higher F1 score of 78%.
 # Evaluation
-The final model had an f1 score of 78%. This surpassed The previously set success of 75%.
+After experimenting with the different models we settled on the decision tree model that was
+tuned by hyperparameters. This is because it met the success criteria by recording an f1 score of 78%. The first three models could not handle
+the nature of data presented. This is why evn though the accuracyscore was high, the f1 score remained low. 
 # Conclusion
 * It would be advisable to conduct future interviews in person so as to obtain
 honest opinions.
