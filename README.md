@@ -8,10 +8,12 @@ A vaccine for the H1N1 flu virus became publicly available in October 2009. In l
 # Data understanding
 The data for this project was obtained from .It contains 35 features investigated from 26707 observations which were the responses provided to the survey questions.
 # Modeling
-Two models were built for this project. The first base model was a logistic regression model. This model was fitted on the training set before any feature selection was done. The model was then fitted in the test data which resulted in an f1 score of. This model was considered to be a poorly perfroming model.
-To improve on this a decision tree model was then used. Intitially it provided an f1 score of . On the use of hyperparameter tunning  the model improved and had an f1 score of .
+Our Baseline model was a simple logistic regression model fitted on the training set without feature selection it had an f1 score of 43%.
+The second model used was the K-Nearest Neighbors (KNN) model. It was built after feature selection was performed using the most important features. It had an f1 score of 36%.
+The third model we used was the Decision Tree model.It was built without hyperparameter tuning, resulting in poor performance. With an f1 score of 37%.
+The final model was a Decision Tree model with hyperparameter pruning.This  Improved model after hyperparameter tuning, leading to a higher F1 score of 78%.
 # Evaluation
-The final model had an f1 score of . B
+The final model had an f1 score of 78%. This surpassed The previously set success of 75%.
 # Conclusion
 * It would be advisable to conduct future interviews in person so as to obtain
 honest opinions.
