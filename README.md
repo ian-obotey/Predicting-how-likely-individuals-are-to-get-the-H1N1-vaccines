@@ -1,6 +1,6 @@
 # Predicting-how-likely-individuals-are-to-get-the-H1N1-vaccines
 !(https://github.com/ian-obotey/Predicting-how-likely-individuals-are-to-get-the-H1N1-vaccines/assets/144514124/1b95d0d0-c405-41bc-8880-f5903a6bc33e)
-)
+
 # Overview
 Vaccination is a key technique used to fight diseases. It is specifically helpful in fighting infectious diseases. Through the use of immunization the spread of diseases can be reduced because it provides herd immunity.
 The aim of this project is to predict whether individuals got the H1N! flu vaccine based on data obtained from the United States National 2009 H1N1 flu survey.
