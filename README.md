@@ -15,10 +15,13 @@ The final model had an f1 score of . B
 # Conclusion
 It would be advisable to conduct future interview in person so as to obtain
 honest opinions
+
 The interviewers should attempt to find more data as to the particular reasons 
 that one does not want to take the vaccines and address this issues.
+
 There should be more interviews being conducted to avoid the reliance on old 
 datasets such as this one.
+
 The findings of this research acknowledged the importance of public awarness 
 therefore the administrators should act on this.
 
