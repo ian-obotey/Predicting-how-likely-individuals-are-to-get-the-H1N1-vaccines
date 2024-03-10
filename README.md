@@ -1,5 +1,5 @@
 # Predicting-how-likely-individuals-are-to-get-the-H1N1-vaccines
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.washingtonpost.com/resizer/8NN3yVNP1PZfWreCI6rsQcURVGU=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SZL5Z2ZLAQ3BFOWNDPYS6RD7GA.jpg))
 # Overview
 Vaccination is a key technique used to fight diseases. It is specifically helpful in fighting infectious diseases. Through the use of immunization the spread of diseases can be reduced because it provides herd immunity.
 The aim of this project is to predict whether individuals got the H1N! flu vaccine based on data obtained from the United States National 2009 H1N1 flu survey.
