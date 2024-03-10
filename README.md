@@ -1,5 +1,5 @@
 # Predicting-how-likely-individuals-are-to-get-the-H1N1-vaccines
-!(![image](https://github.com/ian-obotey/Predicting-how-likely-individuals-are-to-get-the-H1N1-vaccines/assets/144514124/1b95d0d0-c405-41bc-8880-f5903a6bc33e)
+!(https://github.com/ian-obotey/Predicting-how-likely-individuals-are-to-get-the-H1N1-vaccines/assets/144514124/1b95d0d0-c405-41bc-8880-f5903a6bc33e)
 )
 # Overview
 Vaccination is a key technique used to fight diseases. It is specifically helpful in fighting infectious diseases. Through the use of immunization the spread of diseases can be reduced because it provides herd immunity.
